@@ -1,0 +1,37 @@
+section {
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+.project-create {
+    display: block;
+}
+.col-sm {
+    border: 1px black solid;
+    text-align: center;
+
+}
+.first-row {
+    background-color: rgb(175, 172, 172);
+}
+.card-body {
+    padding: 0;
+}
+.row {
+    width: 100%;
+    margin: 0;
+}
+.groups {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.groups-card {
+    width: 250px;
+    height: 250px;
+    margin: 15px 30px 0px 0px;
+}
